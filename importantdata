@@ -1,0 +1,3 @@
+linux user data /etc/passwd
+linux authentication file /etc/ssh/sshd_config
+dig
